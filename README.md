@@ -1,2 +1,2 @@
 # Python Price Alerter
- Alerts user when Price of an Item drops. User can specify URL's and Pricepoints where an Alert should be triggered.
+   User can provide URL's to Items from a Website and create Alert's which trigger when the given Items Price drops under the from the User provided Value.
