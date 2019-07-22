@@ -1,0 +1,15 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start Price-Alert",
+            "type": "shell",
+            "command": "& 'c:/Users/mruch/Documents/Visual Studio 2017/Projects/Python-Price-Alerter/env/Scripts/python.exe' 'c:/Users/mruch/Documents/Visual Studio 2017/Projects/Python-Price-Alerter/Price-Alert.py'",
+            "presentation": {
+                "reveal": "never"
+            }
+        }
+    ]
+}
