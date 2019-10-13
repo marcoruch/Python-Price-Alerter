@@ -11,3 +11,11 @@
    <li>Check Current Price</li>
    <li>Get alerted on Price-Changes</li>
 </ul>
+
+
+<h2>Stack</h2>
+<ul>
+   <li>Python</li>
+   <li>Flask (Backend)</li>
+   <li>Firebase (NoSQL Database)</li>
+</ul>
